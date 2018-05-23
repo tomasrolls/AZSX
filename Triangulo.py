@@ -16,6 +16,11 @@ if (a+b)>c and (a+c)>b and (b+c)>a:
             print("Triangulo Isósceles de perimetro =",p," y area =",area)
 else :
     print("No es triangulo")
-            
+
+def triangulo (a,b,c):
+    program statement1
+    program statement3
+    program statement3
+    ...
             
         
